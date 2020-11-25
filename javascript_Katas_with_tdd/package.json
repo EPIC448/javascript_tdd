@@ -1,0 +1,13 @@
+{
+  "name": "javascript_katas_with_tdd",
+  "version": "1.0.0",
+  "description": "contain dependencies for javascript_katas_with_tdd",
+  "main": "allfunc.js",
+  "scripts": {
+    "test": "jest",
+    "testwatch": "jest --watchAll"  
+
+  },
+  "author": "samrey2018@gmail.com",
+  "license": "ISC"
+}
